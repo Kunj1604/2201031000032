@@ -1,0 +1,126 @@
+.desktop-6-child,
+.desktop-6-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+}
+.desktop-6-child {
+  object-fit: cover;
+}
+.desktop-6-item {
+  background-color: var(--color-gray);
+}
+.rating1 {
+  position: absolute;
+  top: 49px;
+  left: 71px;
+  font-family: var(--font-joti-one);
+  display: inline-block;
+  width: 416px;
+  height: 91px;
+}
+.desktop-6-inner,
+.star-icon {
+  position: absolute;
+  top: 553px;
+  left: 511px;
+  width: 59px;
+  height: 67px;
+}
+.star-icon {
+  left: 597px;
+}
+.desktop-6-child1,
+.desktop-6-child2,
+.desktop-6-child3 {
+  position: absolute;
+  top: 553px;
+  left: 683px;
+  width: 58px;
+  height: 67px;
+}
+.desktop-6-child2,
+.desktop-6-child3 {
+  left: 758px;
+  width: 59px;
+}
+.desktop-6-child3 {
+  left: 844px;
+}
+.div,
+.rectangle-div {
+  position: absolute;
+  left: 513px;
+}
+.div {
+  top: 640px;
+  font-size: var(--font-size-36xl);
+  display: inline-block;
+  width: 331px;
+  height: 89px;
+}
+.rectangle-div {
+  top: 765px;
+  background-color: var(--color-gainsboro-200);
+  width: 794px;
+  height: 183px;
+}
+.vijay-sethupathi-is {
+  position: absolute;
+  top: 770px;
+  left: 526px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 741px;
+  height: 178px;
+}
+.f-2-icon {
+  position: absolute;
+  top: 140px;
+  left: 72px;
+  width: 399px;
+  height: 560px;
+  object-fit: cover;
+}
+.farzi {
+  color: inherit;
+}
+.span {
+  text-decoration: underline;
+}
+.hindi {
+  margin: 0;
+}
+.farzi-2024-hindi-container {
+  position: absolute;
+  top: 215px;
+  left: 551px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 607px;
+  height: 302px;
+}
+.desktop-6-child4 {
+  position: absolute;
+  top: 140px;
+  left: 74px;
+  background-color: var(--color-gainsboro-300);
+  border: 13px solid var(--color-red-200);
+  box-sizing: border-box;
+  width: 413px;
+  height: 561px;
+}
+.desktop-6 {
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-black);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-kanit);
+}

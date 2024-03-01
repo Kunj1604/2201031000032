@@ -1,0 +1,127 @@
+.desktop-5-child,
+.dune-2-bckgeound-image-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+}
+.dune-2-bckgeound-image-1 {
+  object-fit: cover;
+}
+.desktop-5-child {
+  background-color: var(--color-gray);
+}
+.rating2 {
+  position: absolute;
+  top: 49px;
+  left: 71px;
+  font-family: var(--font-joti-one);
+  display: inline-block;
+  width: 416px;
+  height: 91px;
+}
+.screenshot-2024-02-27-154857-8 {
+  position: absolute;
+  top: 189px;
+  left: 85px;
+  width: 336px;
+  height: 506px;
+  object-fit: cover;
+}
+.desktop-5-item {
+  position: absolute;
+  top: 174px;
+  left: 71px;
+  background-color: var(--color-gainsboro-300);
+  border: 13px solid var(--color-red-200);
+  box-sizing: border-box;
+  width: 367px;
+  height: 536px;
+}
+.dune-part-two {
+  text-decoration: underline;
+  white-space: pre-wrap;
+}
+.dune-part-two-20241 {
+  color: inherit;
+}
+.language-english {
+  margin: 0;
+}
+.dune-part-two-container {
+  position: absolute;
+  top: 183px;
+  left: 521px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 826px;
+  height: 317px;
+}
+.desktop-5-child1,
+.desktop-5-inner {
+  position: absolute;
+  top: 553px;
+  left: 511px;
+  width: 59px;
+  height: 67px;
+}
+.desktop-5-child1 {
+  left: 597px;
+}
+.desktop-5-child2,
+.desktop-5-child3,
+.desktop-5-child4 {
+  position: absolute;
+  top: 553px;
+  left: 683px;
+  width: 58px;
+  height: 67px;
+}
+.desktop-5-child3,
+.desktop-5-child4 {
+  left: 758px;
+  width: 59px;
+}
+.desktop-5-child4 {
+  left: 844px;
+}
+.desktop-5-child5,
+.div1 {
+  position: absolute;
+  left: 513px;
+}
+.div1 {
+  top: 640px;
+  font-size: var(--font-size-36xl);
+  display: inline-block;
+  width: 331px;
+  height: 89px;
+}
+.desktop-5-child5 {
+  top: 778px;
+  background-color: var(--color-gainsboro-200);
+  width: 794px;
+  height: 183px;
+}
+.paul-atreides-unites {
+  position: absolute;
+  top: 783px;
+  left: 526px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 741px;
+  height: 178px;
+}
+.desktop-5 {
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-black);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-kanit);
+}

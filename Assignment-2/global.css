@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-kumar-one: "Kumar One";
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-irish-grover: "Irish Grover";
+  --font-inria-serif: "Inria Serif";
+  --font-gentium-basic: "Gentium Basic";
+  --font-germania-one: "Germania One";
+  --font-jost: Jost;
+  --font-joti-one: "Joti One";
+  --font-kanit: Kanit;
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-31xl: 50px;
+  --font-size-11xl: 30px;
+  --font-size-36xl: 55px;
+  --font-size-41xl: 60px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-red-200: #fc1212;
+  --color-black: #000;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.8);
+  --color-gainsboro-300: rgba(217, 217, 217, 0);
+  --color-gray: rgba(0, 0, 0, 0.58);
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+}
